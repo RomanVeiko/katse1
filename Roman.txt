@@ -1,0 +1,5 @@
+<h1>tere tulemast minu kodulehele</h1>
+<a href="www.ttu.ee">www.ttu.ee</a>
+<img src="C:\Users\Roman\Desktop\IADM\zscore.png"</img>
+<p>
+<strong>Roman</strong>
